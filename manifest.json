@@ -4,7 +4,7 @@
     "title": "Yet another generic startpage",
     "displayImg": true,
     "font": "Quicksand",
-    "enableFonts": false
+    "enableFonts": true
   },
   "yags-search": {
     "placeholder": "Search the web",
@@ -22,26 +22,26 @@
     "color": {
       "name": "custom",
       "bg": {
-        "shade": "#131316",
-        "base": "#18181B",
-        "surface": "#1D1D20",
-        "highlight": "#222226"
+        "shade": "#20232A",
+        "base": "#282C34",
+        "surface": "#30353E",
+        "highlight": "#383E49"
       },
       "fg": {
-        "shade": "#969696",
-        "base": "#BBBBBB",
-        "surface": "#E0E0E0",
+        "shade": "#8691A2",
+        "base": "#B0B7C2",
+        "surface": "#DADDE2",
         "highlight": "#FFFFFF"
       },
       "primary": {
-        "bg": "#777777",
-        "base": "#EEEEEE",
-        "fg": "#FFFFFF"
+        "bg": "#60205F",
+        "base": "#BF40BF",
+        "fg": "#DFA0DF"
       },
       "secondary": {
-        "bg": "#252528",
-        "base": "#494950",
-        "fg": "#6E6E78"
+        "bg": "#8300D8",
+        "base": "#E0B0FF",
+        "fg": "#FFFFFF"
       },
       "palette": {
         "red": "#E06C75",
@@ -64,12 +64,12 @@
   "yags-surface": {
     "shadow": {
       "amount": 5,
-      "blur": 5,
-      "offset": 17,
-      "shadow": "17px 17px 5px rgb(119, 119, 119), 34px 34px 5px rgb(98.5, 98.5, 99.25), 51px 51px 5px rgb(78, 78, 79.5), 68px 68px 5px rgb(57.5, 57.5, 59.75), 85px 85px 5px rgb(37, 37, 40)"
+      "blur": 6,
+      "offset": 8,
+      "shadow": "8px 8px 6px rgb(96, 32, 95), 16px 16px 6px rgb(104.75, 24, 125.25), 24px 24px 6px rgb(113.5, 16, 155.5), 32px 32px 6px rgb(122.25, 8, 185.75), 40px 40px 6px rgb(131, 0, 216)"
     },
-    "borderRadius": 15,
-    "maxWidth": 1340
+    "borderRadius": 30,
+    "maxWidth": 1540
   },
   "yags-bookmarks": [
     {
@@ -115,16 +115,11 @@
       ]
     },
     {
-      "id": "m7BIXnxwJxnoz7ip",
-      "label": "Tools",
-      "bookmarks": []
-    },
-    {
-      "id": "3ypQtBVT153F0Xj8",
+      "id": "ZXYOoVJ0T9SlXPbU",
       "label": "Misc",
       "bookmarks": [
         {
-          "id": "lrBndl6SmtgPg42p",
+          "id": "ZxlYr30zrUR9RrT1",
           "label": "Author",
           "url": "https://prettycoffee.github.io/"
         }
