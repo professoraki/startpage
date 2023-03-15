@@ -47,7 +47,7 @@ searchButton.onclick = search
  * inject bookmarks into html
  */
 
-const bookmarks = [{"id":"JiW0ugVDmRsdn5TK","label":"Listings","bookmarks":[{"id":"YJwaEyuQL923Pg1g","label":"MDL","url":"https://mydramalist.com/"},{"id":"Bfu2jBkd4vfc6Vys","label":"MAL","url":"https://myanimelist.net/"},{"id":"Qe02shEDlfFQB01p","label":"AniList","url":"https://anilist.co/"},{"id":"7PRRG81XC4YMUDX3","label":"vndb","url":"https://vndb.org/"}]},{"id":"kJn6auB1wpDZY9MY","label":"Tech","bookmarks":[{"id":"LwLOAvDyrb0BaBdi","label":"GitHub","url":"https://github.com/"},{"id":"klK9AGyfA4DTQbnz","label":"Tweakers","url":"https://tweakers.net/"}]}]
+const bookmarks = [{"id":"JiW0ugVDmRsdn5TK","label":"Listings","bookmarks":[{"id":"YJwaEyuQL923Pg1g","label":"MDL","url":"https://mydramalist.com/"},{"id":"Bfu2jBkd4vfc6Vys","label":"MAL","url":"https://myanimelist.net/"},{"id":"Qe02shEDlfFQB01p","label":"AniList","url":"https://anilist.co/"},{"id":"7PRRG81XC4YMUDX3","label":"vndb","url":"https://vndb.org/"}]},{"id":"kJn6auB1wpDZY9MY","label":"Tech","bookmarks":[{"id":"LwLOAvDyrb0BaBdi","label":"GitHub","url":"https://github.com/"},{"id":"klK9AGyfA4DTQbnz","label":"Tweakers","url":"https://tweakers.net/"}]},{"id":"m7BIXnxwJxnoz7ip","label":"New group","bookmarks":[]},{"id":"3ypQtBVT153F0Xj8","label":"Misc","bookmarks":[{"id":"lrBndl6SmtgPg42p","label":"New bookmark","url":""}]}]
 
 const createGroupContainer = () => {
   const container = document.createElement("div")

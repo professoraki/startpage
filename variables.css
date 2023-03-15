@@ -28,9 +28,9 @@
   --display-image: block;
 
   /** surface */
-  --surface-maxWidth: 1100px;
-  --surface-shadow: 12px 12px 0px rgb(119, 119, 119), 24px 24px 0px rgb(98.5, 98.5, 99.25), 36px 36px 0px rgb(78, 78, 79.5), 48px 48px 0px rgb(57.5, 57.5, 59.75), 60px 60px 0px rgb(37, 37, 40);
-  --surface-borderRadius: 32px;
+  --surface-maxWidth: 1340px;
+  --surface-shadow: 17px 17px 5px rgb(119, 119, 119), 34px 34px 5px rgb(98.5, 98.5, 99.25), 51px 51px 5px rgb(78, 78, 79.5), 68px 68px 5px rgb(57.5, 57.5, 59.75), 85px 85px 5px rgb(37, 37, 40);
+  --surface-borderRadius: 15px;
 
   /** spacing */
   --space-smallest: 0.125rem;
@@ -41,5 +41,5 @@
 
   /** others */
   --picture-size: 300px;
-  --group-count: 2;
+  --group-count: 4;
 }
