@@ -1,6 +1,6 @@
 {
   "yags-general": {
-    "img": "https://i.gifer.com/ZMiZ.gif",
+    "img": "https://i.gifer.com/7gxM.gif",
     "title": "Yet another generic startpage",
     "displayImg": true,
     "font": "Quicksand",
@@ -64,12 +64,12 @@
   "yags-surface": {
     "shadow": {
       "amount": 5,
-      "blur": 0,
-      "offset": 12,
-      "shadow": "12px 12px 0px rgb(119, 119, 119), 24px 24px 0px rgb(98.5, 98.5, 99.25), 36px 36px 0px rgb(78, 78, 79.5), 48px 48px 0px rgb(57.5, 57.5, 59.75), 60px 60px 0px rgb(37, 37, 40)"
+      "blur": 5,
+      "offset": 17,
+      "shadow": "17px 17px 5px rgb(119, 119, 119), 34px 34px 5px rgb(98.5, 98.5, 99.25), 51px 51px 5px rgb(78, 78, 79.5), 68px 68px 5px rgb(57.5, 57.5, 59.75), 85px 85px 5px rgb(37, 37, 40)"
     },
-    "borderRadius": 32,
-    "maxWidth": 1100
+    "borderRadius": 15,
+    "maxWidth": 1340
   },
   "yags-bookmarks": [
     {
@@ -111,6 +111,22 @@
           "id": "klK9AGyfA4DTQbnz",
           "label": "Tweakers",
           "url": "https://tweakers.net/"
+        }
+      ]
+    },
+    {
+      "id": "m7BIXnxwJxnoz7ip",
+      "label": "New group",
+      "bookmarks": []
+    },
+    {
+      "id": "3ypQtBVT153F0Xj8",
+      "label": "Misc",
+      "bookmarks": [
+        {
+          "id": "lrBndl6SmtgPg42p",
+          "label": "New bookmark",
+          "url": ""
         }
       ]
     }
